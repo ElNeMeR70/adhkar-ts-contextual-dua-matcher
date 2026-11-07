@@ -1,0 +1,11 @@
+{
+  "name": "adhkar-ts-contextual-dua-matcher",
+  "version": "1.0.0",
+  "description": "Context-Aware Sunnah Dua Recommender (Travel, Rain, Distress, Sleep) (مرشد الأدعية المأثورة حسب الأحوال والمناسبات)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
